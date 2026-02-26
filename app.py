@@ -50,6 +50,9 @@ LIGLER = {
     "BL1": "Bundesliga 🇩🇪",
     "FL1": "Ligue 1 🇫🇷",
     "CL":  "Champions League 🇪🇺",
+    "DED": "Eredivisie 🇳🇱",
+    "PPL": "Primeira Liga 🇵🇹",
+    "ELC": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
 }
 
 # ============================================================
