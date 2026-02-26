@@ -1,4 +1,9 @@
 import streamlit as st
+sifre = st.text_input("🔐 Şifre girin", type="password")
+if sifre != "felonjs1988":
+    st.warning("Şifre gerekli.")
+    st.stop()
+import streamlit as st
 import requests
 import pandas as pd
 import numpy as np
